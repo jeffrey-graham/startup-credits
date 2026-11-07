@@ -11,8 +11,8 @@ entity:
       valid_from: 2026-11-06T23:30:00.000Z
   category: crm-sales
 profile:
-  summary: ZoomInfo is a B2B go-to-market intelligence platform providing verified company and contact data, buyer intent signals, conversation intelligence, and sales automation.
-  description: B2B contact database, buyer intent signals, and go-to-market intelligence platform for sales and marketing teams.
+  summary: ZoomInfo is a B2B go-to-market intelligence platform providing company and contact search, buyer intent, website visitor tracking, conversation intelligence, and sales automation.
+  description: B2B go-to-market platform with a database of contacts and companies, buyer intent, sales automation, and conversation intelligence.
   links:
     site: https://www.zoominfo.com
 sources:
