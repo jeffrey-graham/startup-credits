@@ -65,7 +65,7 @@ offers:
     access:
       availability: public
       method: form
-      url: https://www.signzy.com/fintech-apis/startups
+      url: https://www.signzy.com/signup
       instructions: Sign up through the Signzy for Startups portal on the program page.
     source_ids:
       - src_a111f79b5d7226d16c3b09cb535d2c97a83575941533d1b7e042b2f925844239
